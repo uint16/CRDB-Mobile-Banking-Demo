@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Banking</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log Out</string>
+    <string name="drawer_open">Navigation drawer open</string>
+    <string name="drawer_close">Navigation drawer closed</string>
+    <string name="color_stripe">Color Stripe</string>
+    <string name="desc">Description goes here!</string>
+    <string name="profile_image_content_description">User profile picture</string>
+    <string name="bank_logo_content_description">Bank logo image</string>
+    <string name="copyright_text">CRDB Bank PLC. All rights reserved.</string>
+    <string name="contact">Contact Us</string>
+    <string name="feedback">Send Application Feedback</string>
+    <string name="help">Help</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="validate">Validate</string>
+    <string name="reset_key">Reset Secret Key</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy_and_security">Privacy and Security</string>
+    <string name="search_region">Select Region</string>
+    <string name="search_service">Select Service</string>
+    <string name="search">Search</string>
+    <string name="search_by">Search By</string>
+    <string name="search_account">Choose Account</string>
+    <string name="available_balance">Actual Amount</string>
+    <string name="actual_balance">Available Amount</string>
+    <string name="about_text">CRDB Bank Plc is a leading, wholly-owned private commercial bank in Tanzania. The Bank was established in 1996 and has grown and prospered over the years to become the most innovative, first choice, and trusted bank in the country. CRDB Bank has been recording progressive profit every year since its foundation and has paid dividends annually. The Bank reached an important milestone recently and was listed on the Dar es Salaam Stock Exchange on 17th of June, 2009.\n\nCRDB Bank offers a comprehensive range of Corporate, Retail, Business, Treasury, Premier, and wholesale microfinance services through a network of over 85 branches, 250 ATMs, 15 Depository ATMs, 12 Mobile branches, 900 Point of Sales (POS) terminals and scores of Microfinance partners institutions. The Bank also operates through Internet and Mobile banking services.</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="services">
+        <item>Home</item>
+        <item>My Profile</item>
+        <item>Statements</item>
+        <item>Transfer</item>
+        <item>Fahari Huduma</item>
+        <item>About Us</item>
+        <item>More</item>
+    </string-array>
+    
+    <string-array name="search_regions">
+        <item>Arusha</item>
+        <item>Bukoba</item>
+        <item>Dar Es Salaam</item>
+        <item>Dodoma</item>
+        <item>Iringa</item>
+        <item>Kahama</item>
+        <item>Karagwe</item>
+        <item>Kibaha</item>
+        <item>Kigoma</item>
+        <item>Korogwe</item>
+        <item>Lindi</item>
+        <item>Mara</item>
+        <item>Marangu</item>
+        <item>Mbeya</item>
+        <item>Mbinga</item>
+        <item>Morogoro</item>
+    </string-array>
+    
+    <string-array name="search_service_type">
+        <item>ATM</item>
+        <item>Branches</item>
+    </string-array>
+    
+    <string-array name="search_transaction_account">
+        <item>Account 1</item>
+        <item>Account 2</item>
+    </string-array>
+    
+        <string-array name="search_transaction_by">
+        <item>Transaction ID</item>
+        <item>Date</item>
+        <item>Description</item>
+        <item>Amount</item>
+    </string-array>
+
+</resources>

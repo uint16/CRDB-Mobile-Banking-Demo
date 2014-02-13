@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="golden">#f2a400</color>
+    <color name="red">#e00707</color>
+    <color name="black">#ff000000</color>
+    <color name="crdb_green">#298A08</color>
+    <color name="background_holo_light">#ffffffff</color>
+    <color name="sky_blue">#00d5f2</color>
+    <color name="holo_blue">#ff33b6ea</color>
+    <color name="lighter_gray">#ddd</color>
+
+</resources>
