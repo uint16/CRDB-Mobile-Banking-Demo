@@ -1,7 +1,7 @@
 <html>
 <head>
 <h1>
-Mobile Banikng
+Mobile Bankng
 </h1>
 </head>
 
