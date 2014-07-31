@@ -7,7 +7,10 @@ Mobile Banking
 
 <body>
 <p>
-A simple mobile banking client concept I worked on during my field attachment time at the CRDB Bank PLC
+A simple mobile banking client concept I worked on during my field attachment(Internship) time at the CRDB Bank PLC
+<br>
+<img src="https://www.dropbox.com/s/2bj5n6fpmjgwupm/2014-01-15%2022.06.36.jpg">
+<br>
 </p>
 
 <h1>Support Libraries : </h1>
