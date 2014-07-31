@@ -9,7 +9,7 @@ Mobile Banking
 <p>
 A simple mobile banking client concept I worked on during my field attachment(Internship) time at the CRDB Bank PLC
 <br>
-![](https://www.dropbox.com/s/2bj5n6fpmjgwupm/2014-01-15%2022.06.36.jpg)
+![Alt text](https://www.dropbox.com/s/2bj5n6fpmjgwupm/2014-01-15%2022.06.36.jpg)
 <br>
 </p>
 
