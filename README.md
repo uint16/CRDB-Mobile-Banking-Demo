@@ -9,8 +9,6 @@ Mobile Banking
 <p>
 A simple mobile banking client concept I worked on during my field attachment(Internship) time at the CRDB Bank PLC
 <br>
-![Logo](/MobileBanking/res/drawable/crdb_logo.png)
-<br>
 </p>
 
 <h1>Support Libraries : </h1>
